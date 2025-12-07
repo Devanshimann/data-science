@@ -4,14 +4,13 @@ it includes data cleaning ,data transformation ,data visualisation and data mode
 <H2>
   This repository includes all the ML models I practised 
 </H2>
-<h3>
+
   Linear refression<br>
   Decision Tree Classifier<br>
+  Random Forest Classifier<br>
+  Support Vector Machine (SVM)<br>
+  KNN<br>
+  DBSCAN<br>
+  K-means<br>
+  Hierarchial<br>
 
-  Random Forest Classifier
-  Support Vector Machine (SVM)
-  KNN
-  DBSCAN
-  K-means
-  Hierarchial
-</h3>
