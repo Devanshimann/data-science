@@ -1,1 +1,1 @@
-print(df)
+x,y=make_moons(n_samples=1000,noise=0.05)
