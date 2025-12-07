@@ -5,7 +5,7 @@ it includes data cleaning ,data transformation ,data visualisation and data mode
   This repository includes all the ML models I practised 
 </H2>
 
-  Linear refression<br>
+  Linear regression<br>
   Decision Tree Classifier<br>
   Random Forest Classifier<br>
   Support Vector Machine (SVM)<br>
